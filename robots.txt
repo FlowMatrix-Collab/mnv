@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://musik-neuverstehen.de/sitemap.xml
