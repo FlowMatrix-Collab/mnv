@@ -54,3 +54,9 @@ Dann unter `Settings → Pages` veröffentlichen.
 ## V7 Korrektur
 
 Doppelte CTA-Blöcke wurden bereinigt. Pro Seite bleibt nur ein klarer, starker Abschluss-CTA stehen.
+
+
+## V8 CTA-Bereinigung
+
+Die HTML-Dateien wurden direkt geprüft. Doppelte CTA-Endbereiche wurden entfernt.
+Der Prüfbericht liegt in `CTA_PRUEFBERICHT.md`.
